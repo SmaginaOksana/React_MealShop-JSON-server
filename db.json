@@ -427,60 +427,31 @@
   ],
   "basket": [
     {
-      "id": "51e0",
-      "nameEn": "burgers",
-      "name": "Тяжелый удар",
-      "weight": "470г",
-      "price": 480,
-      "count": 3
-    },
-    {
-      "id": "3793",
-      "nameEn": "pizza",
-      "name": "Ветчина и огурчики",
-      "weight": "450г",
-      "price": 450,
-      "count": 1
-    },
-    {
-      "id": "1c0f",
-      "nameEn": "sauces",
-      "name": "Чесночный",
-      "weight": "25г",
-      "price": 49,
-      "count": 5
-    },
-    {
-      "id": "6204",
-      "nameEn": "sauces",
-      "name": "Пармеджано",
-      "weight": "25г",
-      "price": 49,
-      "count": 1
-    },
-    {
-      "id": "69dc",
-      "nameEn": "sauces",
-      "name": "Кисло-сладкий",
-      "weight": "25г",
-      "price": 49,
-      "count": 4
-    },
-    {
       "id": "5ee0",
       "nameEn": "burgers",
       "name": "Мясная бомба",
       "weight": "520г",
       "price": 689,
-      "count": 2
+      "count": 3,
+      "urlImg": "products/burgers/burgers_0.png"
     },
     {
-      "id": "c700",
-      "nameEn": "combo",
-      "name": "Пицца и 2 закуски",
-      "weight": "812г",
-      "price": 590,
-      "count": 1
+      "id": "b6e9",
+      "nameEn": "burgers",
+      "name": "Вечная классика",
+      "weight": "450г",
+      "price": 450,
+      "count": 1,
+      "urlImg": "products/burgers/burgers_4.png"
+    },
+    {
+      "id": "918b",
+      "nameEn": "fries",
+      "name": "Баварский ланчбокс",
+      "weight": "412г",
+      "price": 350,
+      "count": 1,
+      "urlImg": "products/fries/fries_1.png"
     }
   ]
 }
